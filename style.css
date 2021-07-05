@@ -1,0 +1,9 @@
+.img{
+    display: flex;
+    align-items:initial ;
+    padding: 20px;
+}
+.texto{
+    padding-left: 20px;
+    padding-right: 20px;
+}
